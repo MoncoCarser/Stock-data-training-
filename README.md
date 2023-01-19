@@ -1,0 +1,1 @@
+This repl is for testing stock data API and learn what/how to fulfill my goals of getting good data and printing it in desirable ways.
